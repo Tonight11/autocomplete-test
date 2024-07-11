@@ -6,7 +6,8 @@ export const useDataStore = defineStore('data', () => {
     { id: 1, name: 'John Doe' },
     { id: 2, name: 'Jane Smith' },
     { id: 3, name: 'Alice Johnson' },
-    { id: 4, name: 'Bayastan Kenenov' }
+    { id: 4, name: 'Bayastan Kenenov' },
+    { id: 5, name: 'Bayastan Nurbeck' },
   ])
 
   return { data }
